@@ -7,6 +7,15 @@ o arquivo: Aula 3 exercicio.ipynb tem como contéudo a resolução do exercicio 
 INSTRUÇÃO DE COMO RODAR OS ARQUIVOS
 
 1- Utilize a Ferramenta Google Colab para executar os arquivos, logue com sua conta da Google (utilizada também no Google Drive)
+
+
+
 2- no menu do colab localizado na direita clique em ''Conectar'', para se conectar ao ambiente e o servidor 
+
+
+
 3- clique no ícone localizado a sua esquerda para executar a célula (pode também utilizar atalho Ctrl + Enter) em seu teclado
+
+
+
 4- Sempre que for verificar os códigos e executar eles, execute em ordem, execute primeiro a biblioteca para que os códigos funcionem 
